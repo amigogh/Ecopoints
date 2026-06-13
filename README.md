@@ -1,4 +1,8 @@
+View App:  https://code-eight-azure.vercel.app
+
+
 # EcoPoints - Waste-to-Rewards Recycling System
+
 
 A demo presentation app for an EcoPoints waste-to-rewards recycling system that operates through vendor machines.
 
